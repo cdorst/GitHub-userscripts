@@ -7,6 +7,8 @@
 // @namespace   https://github.com/Mottie
 // @include     https://github.com/*
 // @include     https://gist.github.com/*
+// @include     https://hlgithub.hobbylobby.corp/*
+// @include     https://gist.hlgithub.hobbylobby.corp/*
 // @run-at      document-idle
 // @grant       GM.addStyle
 // @grant       GM_addStyle
@@ -14,8 +16,8 @@
 // @require     https://cdnjs.cloudflare.com/ajax/libs/tinysort/3.2.5/tinysort.min.js
 // @require     https://greasyfork.org/scripts/28721-mutations/code/mutations.js?version=666427
 // @icon        https://github.githubassets.com/pinned-octocat.svg
-// @updateURL   https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-sort-content.user.js
-// @downloadURL https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-sort-content.user.js
+// @updateURL   https://raw.githubusercontent.com/cdorst/GitHub-userscripts/master/github-sort-content.user.js
+// @downloadURL https://raw.githubusercontent.com/cdorst/GitHub-userscripts/master/github-sort-content.user.js
 // ==/UserScript==
 /* global tinysort */
 (() => {
